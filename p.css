@@ -1,0 +1,19 @@
+p {
+    color: red
+}
+#primer-parrafo{
+    color: blueviolet
+}
+.subrayado{
+    text-decoration:underline;
+    color: green
+}
+.tipo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.otra-tipo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul li{
+    color:orange
+}
